@@ -1,0 +1,17 @@
+login:
+  username: '1234'
+  password: '1234'
+
+post:
+  title: '自动化测试'
+  content: 'too long, read from .txt'
+
+profile:
+  username: '1234'
+  position: '软件工程师'
+  company: '广州大学'
+  personal_profile: '获得某某奖1'
+  introduction: '开朗活泼'
+
+search:
+  keyword: 'test'
